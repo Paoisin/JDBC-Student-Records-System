@@ -3,9 +3,8 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 /**
- * DBConnection.java
- * Role Owner: Database Engineer
- * Handles the JDBC connection to MySQL.
+ * Database Engineer: Paulo
+ * Database Connection Setup and MySQL Configuration
  */
 public class DBConnection {
 
